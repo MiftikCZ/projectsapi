@@ -105,6 +105,13 @@ var _miftikcz_project_list = [
       ]
     ],
     [
+      "JS Terminal",
+      [
+        "miftikcz.github.io/chslonk/",
+        ";github.io;2023;tool;cli;personal;web;"
+      ]
+    ],
+    [
       "MC Pack",
       [
         "www.mediafire.com/file/v5o4gmqxz7ej4ym/%25C2%25A71MiftikCZ_Pack%25C2%25A78.zip/file",
