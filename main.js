@@ -136,7 +136,7 @@ var _miftikcz_project_list = [
       "Shortcuts",
       [
         "miftikcz.github.io/MiftikCZ/html-shortcuts",
-        ";github.io;2022;tool;personal;web;"
+        ";github.io;2022;otherlinks;personal;web;"
       ]
     ],
     [
