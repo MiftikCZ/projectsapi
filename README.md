@@ -1,7 +1,7 @@
 # projectsapi
 Databáze mích projektů pro jednoduché propojení s aplikacemi které například zobrazují moje projekty
 
-## příklad:
+## využití:
 ```html
 <script src="https://raw.githubusercontent.com/MiftikCZ/projectsapi/main/main.js"></script>
 <script>
