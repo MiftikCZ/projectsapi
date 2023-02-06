@@ -3,21 +3,21 @@ var _miftikcz_project_list = [
       "MiftikWeb",
       [
         "miftik.tk",
-        ";mweb;2021;otherlinks;web;"
+        ";mweb;pro;2021;otherlinks;web;"
       ]
     ],
     [
       "Miftik Army",
       [
         "https://discord.com/invite/SDxqN8qab2",
-        ";discord;og;comunity;"
+        ";discord;pro;og;comunity;"
       ]
     ],
     [
       "Idea Keeper",
       [
         "miftikcz.github.io/idea-keeper",
-        ";github.io;2022;tool;personal;web;"
+        ";github.io;pro;2022;tool;personal;web;"
       ]
     ],
     [
@@ -45,21 +45,21 @@ var _miftikcz_project_list = [
       "Oats",
       [
         "miftikcz.github.io/vlocky",
-        ";github.io;web;2022;personal;food;"
+        ";github.io;semipro;web;2022;personal;food;"
       ]
     ],
     [
       "Fast Learn",
       [
         "miftik.tk/fastLearn",
-        ";mweb;2022;web;school;personal;edu;"
+        ";mweb;2022;semipro;web;school;personal;edu;"
       ]
     ],
     [
       "Counter",
       [
         "miftik.tk/counter",
-        ";mweb;2022;tool;personal;web;"
+        ";mweb;2022;semipro;tool;personal;web;"
       ]
     ],
     [
@@ -73,7 +73,7 @@ var _miftikcz_project_list = [
       "MiftikRaid",
       [
         "github.com/MiftikCZ/miftikraid",
-        ";github.com;discord;2021;tutorial;personal;tool;cli;"
+        ";github.com;pro;discord;2021;tutorial;personal;tool;cli;"
       ]
     ],
     [
@@ -101,8 +101,15 @@ var _miftikcz_project_list = [
       "Gym Counter",
       [
         "miftikcz.github.io/sets-counter/",
-        ";gym;github.io;2022;tool;personal;web;"
+        ";gym;github.io;pro;2022;tool;personal;web;"
       ]
+    ],
+    [
+        "StatsPlus",
+        [
+            "stats.miftikcz.repl.co/",
+            ";replit;discord;2021;personal;tool;"
+        ]
     ],
     [
       "JS Terminal",
@@ -122,7 +129,7 @@ var _miftikcz_project_list = [
       "Drinko",
       [
         "miftikcz.github.io/drinko-app/",
-        ";gym;github.io;2022;tool;personal;web;"
+        ";gym;github.io;pro;2022;tool;personal;web;"
       ]
     ],
     [
@@ -199,7 +206,7 @@ var _miftikcz_project_list = [
       "Dirty Script",
       [
         "github.com/MiftikCZ/dirty-script",
-        ";github.com;2022;tool;dev;"
+        ";github.com;semipro;2022;tool;dev;"
       ]
     ],
     [
